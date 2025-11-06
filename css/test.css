@@ -1,0 +1,80 @@
+header .container {
+    position: relative;
+}
+@media (max-width: 767px) {
+    header .container {
+        width: 750px;
+        padding: 20px 15px 0;
+        margin: 0 auto;
+    }
+}
+@media (max-width: 991px) {
+    header .logo {
+        margin-right: auto;
+    }
+}
+/* Start Menu Button */
+header .menu-btn {
+    position: absolute;
+    right: 15px;
+    top: -4px;
+    cursor: pointer;
+    display: none;
+}
+@media (max-width: 767px) {
+    header .menu-btn {
+        right: 30px;
+        top: 15px;
+    }
+}
+@media (max-width: 991px) {
+    header .menu-btn {
+        display: block;
+    }
+    .block {
+        display: block;
+    }
+    .none {
+        display: none;
+    }
+}
+header .menu-btn span {
+    width: 40px;
+    height: 5px;
+    background-color: #1F373D;
+    display: block;
+    margin: 6px 0px;
+}
+/* End Menu Button */
+/* Start Toggle Menu */
+@media (max-width: 991px) {
+    header nav {
+        display: none;
+    }
+    header .toggle-menu {
+        position: absolute;
+        right: 5px;
+        top: 40px;
+        z-index: 1000;
+        background-color: white;
+        box-shadow: 0 5px 10px 5px rgb(0 0 0 / 5%);
+        border-radius: 5px;
+        padding: 10px;
+    }
+    header .toggle-menu li a {
+        display: block;
+        font-size: 30px;
+        padding: 10px;
+        color: #1F373D;
+        transition: 0.3s;
+    }
+    header .toggle-menu li:hover a {
+        color: #ffcc01;
+    }
+}
+@media (min-width: 992px) {
+    header .toggle-menu {
+        display: none;
+    }
+}
+/* End Toggle Menu */
