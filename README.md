@@ -1,9 +1,5 @@
 # 🏢 Luxestate - Modern Real Estate Landing Page
 
-[![GitHub license](https://img.shields.io)](https://github.com)
-[![GitHub stars](https://img.shields.io)](https://github.com)
-[![GitHub issues](https://img.shields.io)](https://github.com)
-
 **Luxestate** is a sleek, high-end static website template designed for premium real estate agencies and modern brokerages. It features a flat, vibrant design optimized for showcasing luxury listings and market insights.
 
 [**View Demo**](https://ayoub-jabiri.github.io/static-template-8/))
