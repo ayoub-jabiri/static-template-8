@@ -2,7 +2,7 @@
 
 **Luxestate** is a sleek, high-end static website template designed for premium real estate agencies and modern brokerages. It features a flat, vibrant design optimized for showcasing luxury listings and market insights.
 
-[**View Demo**](https://ayoub-jabiri.github.io/static-template-8/))
+[**View Demo**](https://ayoub-jabiri.github.io/static-template-8/)
 
 ---
 
